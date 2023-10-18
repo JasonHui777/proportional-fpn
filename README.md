@@ -18,6 +18,6 @@ In the configuration file, different commands are used to call backbone and data
 ```Shell
 # For training, run
 python main.py [configs/path_to_your_config] --gpus [gpu_num]
-For testing, run
+# For testing, run
 python main.py [configs/path_to_your_config] --[test|validate] --load_from [path_to_your_model] --gpus [gpu_num]
 ```
