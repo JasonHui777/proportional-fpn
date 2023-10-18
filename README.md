@@ -33,3 +33,4 @@ We conducted experiments on the TuSimple dataset and the CULane dataset
 ![framework](culane_result2.png)
 ### Resnet101
 ![framework](culane_result3.png)
+The evaluation is automatically done after training of the model.
