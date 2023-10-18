@@ -22,4 +22,11 @@ python main.py [configs/path_to_your_config] --gpus [gpu_num]
 python main.py [configs/path_to_your_config] --[test|validate] --load_from [path_to_your_model] --gpus [gpu_num]
 ```
 # Proposed result
+We conducted experiments on the TuSimple dataset and the CULane dataset
+
+The experimental results of Tusimple dataset are as follows：
 ![framework](tusimple_result.png)
+The experimental results of CULane dataset are as follows：
+![framework](culane_result1.png)
+![framework](culane_result2.png)
+![framework](culane_result3.png)
