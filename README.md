@@ -24,9 +24,12 @@ python main.py [configs/path_to_your_config] --[test|validate] --load_from [path
 # Proposed result
 We conducted experiments on the TuSimple dataset and the CULane dataset
 
-The experimental results of Tusimple dataset are as follows：
+## The experimental results of Tusimple dataset are as follows：
 ![framework](tusimple_result.png)
-The experimental results of CULane dataset are as follows：
+## The experimental results of CULane dataset are as follows：
+### Resnet18
 ![framework](culane_result1.png)
+### Resnet34
 ![framework](culane_result2.png)
+### Resnet101
 ![framework](culane_result3.png)
