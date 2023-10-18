@@ -1,5 +1,5 @@
 # Proportional Feature Pyramid Network of Cross Refinement for Lane Detection
-![framework](model.pdf)
+![framework](model.png)
 Lane detection is to identify the lane line and position it accurately after the picture taken by the front camera of the vehicle is judged by the model.
 
 # Datasets
