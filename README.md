@@ -13,4 +13,4 @@ CULane dataset can be downloaded from [Openlink](https://xingangpan.github.io/pr
 TuSimple dataset can be downloaded from [Openlink](https://github.com/TuSimple)
 
 ## Training
-
+In the configuration file, different commands are used to call backbone and data sets. Our code is based on CLRNet modified with adjustable alpha super parameter of the algorithm in the tools folder, P - FPN in clrnet/models/necks/FPN. Py. The weight fusion factor can be calculated through the calculation in tools and then added to P-FPN.
